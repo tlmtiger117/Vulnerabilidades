@@ -16,4 +16,4 @@
    - Acesso:  privilégio errado(acessa algo quem não deveria, como algo de outra pessoa/admin)
 
 - OWASP: Framework conceitual que cobre vulnerabilidades de software, com foco em serviços web.
-   - Útil quando prcisar entender mais sobre falhas web em geral (infra não é o foco dele).
+   - Útil quando precisar entender mais sobre falhas web em geral (infra não é o foco dele).
